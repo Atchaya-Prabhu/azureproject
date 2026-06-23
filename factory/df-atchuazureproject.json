@@ -1,0 +1,15 @@
+{
+	"name": "df-atchuazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8bde0866-b8fe-4d8b-aef3-69d72378f053",
+		"tenantId": "453cb866-8fe8-432e-8f63-56b320a8a7a5"
+	}
+}
